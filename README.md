@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prafful-chauhan-074ba5190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prafful-chauhan-074ba5190/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prafful-chauhan-074ba5190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prafful-chauhan-074ba5190/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/swaggy_baba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="swaggy_baba" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/swaggy_baba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="swaggy_baba" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/swaggy_baba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="swaggy_baba" height="30" width="40" /></a>

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prafful Chauhan</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🔭 I’m currently working at **Mavenir as Software Engineer**
+- 🔭 I’m currently working at **Salesforce as Software Engineer**
 
 - 📫 How to reach me **praffulchauhan50@gmail.com**
 

@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 - 🔭 I’m currently working at **Salesforce as Software Engineer**
+- 🌱 I’m currently learning **System Design, Distributed Systems, Spring, AI/ML**
 
 - 📫 How to reach me **praffulchauhan50@gmail.com**
 
